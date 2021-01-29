@@ -4,7 +4,7 @@
 
 # Subscribe Us https://youtu.be/4T7TUL85KII
 # Instagram https://www.instagram.com/cyber__mission/
-# Website cybermissionposts.blogspot.com
+
 # Make Sure You Are A Root User.
 `````
 #apt-get update
@@ -16,5 +16,8 @@
 # setup.sh
 #./FaceHack.sh
 `````
-# Website 
+
+
+
+cybermissionposts.blogspot.comsite 
 
