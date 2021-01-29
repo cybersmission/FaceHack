@@ -2,7 +2,7 @@
 * Cyber Mission Help You To Learn Hacking
 * Learn Hacking With CyberMission
 
-# Subscribe Us cybermissionposts.blogspot.com https://youtu.be/4T7TUL85KII
+# Subscribe Us https://youtu.be/4T7TUL85KII
 # Instagram https://www.instagram.com/cyber__mission/
 
  Make Sure You Are A Root User
@@ -17,5 +17,5 @@
 # setup.sh
 #./FaceHack.sh
 `````
-# Step By Step Guide
+# Step By Step Guide https://cybermissionposts.blogspot.com/
 
